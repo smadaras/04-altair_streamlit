@@ -19,5 +19,6 @@ chart = (
 )
 
 # Display the chart in Streamlit
+# test github sync
 st.title('Simple Altair Bar Chart')
 st.altair_chart(chart, use_container_width=True)
